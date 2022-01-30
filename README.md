@@ -1,6 +1,7 @@
-<h1>Padrões de Projetos com Java<h1>
+<h1>Padrões de Projetos com Java</h1>
 
-<h2>Implementação de padrões de projetos Java<h2>
+<h3>Implementação de padrões de projetos Java</h3>
 <ol>
-    <li>Singleton - Padrão de projeto criacional, garantindo que apenas um objeto desse tipo exista e forneça um único ponto de acesso a ele para qualquer outro código.</li>
+    <li>Singleton - Padrão de projeto criacional, permitindo a criação de uma única instância de uma classe e fornecer um modo para recuperá-la.</li>
+    <li>Strategy - Padrão de porjeto comportamental, que simplifica a variação de algoritmos para a resolução de um mesmo problema.</li>
 </ol>
